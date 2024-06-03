@@ -10,3 +10,4 @@ My static web page
     </body>
 </html>
 ![screenshot](screenshot.png)
+
