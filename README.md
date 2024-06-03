@@ -1,4 +1,4 @@
-# potterwatch
+# project digitech
 ## My static web page
 
 ### Digitech Sample page
