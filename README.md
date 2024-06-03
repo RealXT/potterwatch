@@ -9,3 +9,4 @@ My static web page
         <p>This is philip's page SBA23329</p>
     </body>
 </html>
+![screenshot](screenshot.png)
