@@ -3,7 +3,7 @@ static web page
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Digitech Sample page</title>
+        <p>Digitech Sample page</p>
     </head>
     <body>
         <p>This is philip's page SBA23329</p>
