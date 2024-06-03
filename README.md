@@ -1,5 +1,5 @@
 # potterwatch
-static web page
+My static web page
 <!DOCTYPE html>
 <html>
     <head>
